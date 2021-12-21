@@ -5,5 +5,18 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "eslint.run": "onSave"
+  "eslint.run": "onSave",
+  "cSpell.words": [
+    "caldav",
+    "CALENDSO",
+    "dtos",
+    "ical",
+    "partstat",
+    "passcode",
+    "TZID",
+    "uuidv",
+    "vcalendar",
+    "VEVENT",
+    "VTIMEZONE"
+  ]
 }
